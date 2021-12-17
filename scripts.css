@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;  
+    box-sizing: border-box;  
+}
+
+.content{
+    background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),url(./salad-2756467_1280.jpg);
+    
+}
+#MooreSavory{
+  
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+    margin: 10px;
+    padding-top: 150px;
+    
+}
+.foods{
+    margin-left: 20px;
+    margin-top: 500px;
+
+}
+
+#salad1{
+    height: 300px;
+    padding: 10px;
+    position: relative;
+    border-radius: 20px;
+}
+.name{
+    
+}
